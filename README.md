@@ -7,7 +7,7 @@ as we always code to interfaces, not to actual implementations. ;)
 Easiest way is via composer:
 ```json
 "require": {
-  "codenamephp/platform.gitlib": "*"
+  "infomax/imxplatformphp.http": "*"
 }
 ```
 Then add the DefinitionsProvider to the ContainerBuilder:
